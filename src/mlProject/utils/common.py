@@ -27,9 +27,9 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """
     try:
         with open(path_to_yaml) as yaml_file:
-            content = yaml.safe_load(yaml_file)
+            content = yaml.safe_load(yaml_file)  # This will be loaded as a dictionary
             logger.info(f"yaml file: {path_to_yaml} loaded successfully")
-            return ConfigBox(content)
+            return ConfigBox(content) # converting the dict into ConfigBox to use the keys as attributes
     except BoxValueError:
         raise ValueError("yaml file is empty")
     except Exception as e:
