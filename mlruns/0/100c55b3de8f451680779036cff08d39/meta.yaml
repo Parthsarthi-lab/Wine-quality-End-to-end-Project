@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Project%204%20Wine%20Quality%20MLFLOW/Wine-quality-End-to-end-Project/mlruns/0/100c55b3de8f451680779036cff08d39/artifacts
+end_time: 1711953065100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 100c55b3de8f451680779036cff08d39
+run_name: melodic-dolphin-92
+run_uuid: 100c55b3de8f451680779036cff08d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711953061240
+status: 3
+tags: []
+user_id: parth

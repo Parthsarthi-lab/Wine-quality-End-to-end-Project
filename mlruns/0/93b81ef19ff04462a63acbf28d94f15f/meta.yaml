@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Project%204%20Wine%20Quality%20MLFLOW/Wine-quality-End-to-end-Project/mlruns/0/93b81ef19ff04462a63acbf28d94f15f/artifacts
+end_time: 1711952990386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93b81ef19ff04462a63acbf28d94f15f
+run_name: stately-slug-248
+run_uuid: 93b81ef19ff04462a63acbf28d94f15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711952986072
+status: 3
+tags: []
+user_id: parth
